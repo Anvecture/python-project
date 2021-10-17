@@ -1,4 +1,5 @@
 a = 3
 b = 4
-c = a+b
-print('sum of the numbers is'+ c )
+c=8
+d = a+b+c
+print('sum of the numbers is'+ d )
