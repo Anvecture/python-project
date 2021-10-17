@@ -1,6 +1,8 @@
 a = 3
 b = 4
 c = a+b
+e = a * b
 d = a-b
 print('sum of the numbers is'+ c )
 print(d)
+print('it is multiplication'+ e)
