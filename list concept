@@ -1,0 +1,3 @@
+a = ['abc', 'xyz', 'asdf', 'lkjh']
+print(typeof(a))
+print(a)
